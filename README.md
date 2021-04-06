@@ -1,6 +1,6 @@
 # SpicyHook
 SpicyHook is a discord webhook spammer.
 
-## Disclaimer:
+## Disclaimer
 
-I AM NOT INVOLVED IN ANY CRIMES COMMITED USING THIS CODE.
+I am not involved in any crimes commited with my code. It's your responsibility, not mine.

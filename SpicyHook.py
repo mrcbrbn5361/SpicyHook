@@ -3,7 +3,7 @@ import colorama
 import time
 import os
 os.system('cls')
-os.system('title SpicyHook made by cattyn and spicy')
+os.system('title SpicyHook made by SpicyHamBoi#8998')
 colorama.init()
 
 print(f"""{colorama.Fore.RED}
@@ -21,7 +21,7 @@ print(f"""{colorama.Fore.RED}
 
 
                 
-                                 by cattyn and spicy
+                                 by SpicyHamBOi#8998
  """)
 
 def hookValid(hook):

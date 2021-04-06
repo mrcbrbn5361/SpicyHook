@@ -1,5 +1,5 @@
 # SpicyHook
-SpicyHook is a discord webhook spammer.
+SpicyHook is a discord webhook spammer. With a pretty nice GUI.
 
 ## Disclaimer
 

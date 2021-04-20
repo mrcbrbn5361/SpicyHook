@@ -7,7 +7,7 @@ os.system('cls')
 os.system('title SpicyHook made by SpicyHamBoi#8998')
 colorama.init()
 
-print(f"""{colorama.Fore.RED}
+print(f"""{colorama.Fore.RED} #it can be any color you want
 
 
 

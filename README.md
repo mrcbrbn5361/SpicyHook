@@ -3,7 +3,7 @@ SpicyHook is a discord webhook spammer(not the best, but does the job okay.)
 
 ## Disclaimer
 
-Any discord TOS rules broken with this code is not my fault and do NOT blame me.
+Any discord TOS rules broken with this code is not my fault and do **not** blame me.
 
 ## Usage
 
